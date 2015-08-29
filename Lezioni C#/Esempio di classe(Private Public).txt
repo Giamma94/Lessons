@@ -1,0 +1,38 @@
+public class Persona
+{
+    private string Nome = "Gianni";
+    private string Cognome = "Beluga";
+
+    public CambiaNome(sting NuovoNome)
+    {
+      ControlloNome(NuovoNome);
+    }
+
+    private ControlloNome(string controllo)
+    {
+      if (controllo != Nome)
+        Nome = controllo;
+    }
+
+    public CambiaCognome(sting NuovoCognome)
+    {
+      ControlloCognome(NuovoCognome);
+    }
+
+    private ControlloCognome(string controllo)
+    {
+      if (controllo != Cognome)
+        Cognome = controllo;
+    }
+}
+
+
+
+
+public static void Main(string[] args)
+{
+  Persona P = new Persona(); //Dichiaro una variabile P di tipo Persona(che è una classe)
+//Lancio i metodi pubblici della classe Persona
+  P.CambiaNome("Luca");
+  P.CambiaCognome("Verdi");
+}

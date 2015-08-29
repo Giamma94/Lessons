@@ -1,0 +1,43 @@
+public class Persona
+{
+    private string Nome = "Gianni";
+    private string Cognome = "Beluga";
+
+    public Nome()
+    {
+      get(return Nome);
+      set(ControlloNome(value);
+    }
+
+    private ControlloNome(string controllo)
+    {
+      if (controllo != Nome)
+        Nome = controllo;
+    }
+
+    public CambiaCognome()
+    {
+      get(return Cognome);
+      set(ControlloCognome(value);
+    }
+
+    private ControlloCognome(string controllo)
+    {
+      if (controllo != Cognome)
+        Cognome = controllo;
+    }
+}
+
+
+
+
+public static void Main(string[] args)
+{
+  Persona P = new Persona(); //Dichiaro una variabile P di tipo Persona(che è una classe)
+
+  string NomePersona = P.Nome.get();
+  P.Nome.set("Paolo");
+
+  string CognomePersona = P.Cognome.get();
+  P.Cognome.set("Santi");
+}
