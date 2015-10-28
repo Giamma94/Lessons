@@ -1,0 +1,5 @@
+c:\users\gianmarco\documents\visual studio 2015\Projects\media_voti\media_voti\bin\Debug\media_voti.exe.config
+c:\users\gianmarco\documents\visual studio 2015\Projects\media_voti\media_voti\bin\Debug\media_voti.exe
+c:\users\gianmarco\documents\visual studio 2015\Projects\media_voti\media_voti\bin\Debug\media_voti.pdb
+c:\users\gianmarco\documents\visual studio 2015\Projects\media_voti\media_voti\obj\Debug\media_voti.exe
+c:\users\gianmarco\documents\visual studio 2015\Projects\media_voti\media_voti\obj\Debug\media_voti.pdb
