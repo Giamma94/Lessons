@@ -1,0 +1,6 @@
+c:\users\gian marco mari\documents\visual studio 2015\Projects\Verifica_01_12_2015\Verifica_01_12_2015\bin\Debug\Verifica_01_12_2015.exe.config
+C:\Users\Gian Marco Mari\documents\visual studio 2015\Projects\Verifica_01_12_2015\Verifica_01_12_2015\bin\Debug\Verifica_01_12_2015.exe
+C:\Users\Gian Marco Mari\documents\visual studio 2015\Projects\Verifica_01_12_2015\Verifica_01_12_2015\bin\Debug\Verifica_01_12_2015.pdb
+C:\Users\Gian Marco Mari\documents\visual studio 2015\Projects\Verifica_01_12_2015\Verifica_01_12_2015\obj\Debug\Verifica_01_12_2015.csprojResolveAssemblyReference.cache
+C:\Users\Gian Marco Mari\documents\visual studio 2015\Projects\Verifica_01_12_2015\Verifica_01_12_2015\obj\Debug\Verifica_01_12_2015.exe
+C:\Users\Gian Marco Mari\documents\visual studio 2015\Projects\Verifica_01_12_2015\Verifica_01_12_2015\obj\Debug\Verifica_01_12_2015.pdb
